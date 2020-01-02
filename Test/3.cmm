@@ -1,0 +1,44 @@
+int a[9];
+float b;
+int b;
+
+struct Complex
+{
+        struct ty {
+                 int yuy;
+        }uuu;
+	float real,image;
+        int k;
+        int ito = 0;
+        int k;
+};
+int func()
+{
+        return 1;
+}
+int main(int i,int ii,int iii)
+{
+	int j;
+        int j;
+        int jj;
+        int aa[5][10][6];
+        struct g dd[10];
+        struct Complex kkl[10];
+        float cml[10];
+        jj = 8;
+        1.5 = 7; 
+        a[8] = aa[5][10];  
+        if(i==1)
+            return 1; 
+        if(i==1)
+           return 1;
+        else 
+            return 0;
+        while(10){
+                a[8] = 1;
+        }
+        func() = 1;
+        a[8] = func();
+        return 1;
+}
+ 

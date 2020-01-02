@@ -1,0 +1,13 @@
+int main(){
+    int a,b;
+    int c = a = b= 2;
+    a= read();
+    b = read();
+    if(a + b)
+        write(0);
+    if(a&&b)
+        write(1);
+    if(!a)
+        write(2);
+    return 0;
+}

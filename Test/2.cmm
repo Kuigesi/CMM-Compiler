@@ -1,0 +1,13 @@
+int addgf(int i,int j,int k,int l, int m ,int n ,int y){
+  return i - j * k+ m*n +y;
+  return -1;
+}
+int main()
+{ 
+	int a,b,c = 1;
+        a = 1;
+        c = 3;
+        b = read();
+        write(addgf(a + 1,b + 1,c + 1,5,6,7,8) + 1);
+        return c;
+}

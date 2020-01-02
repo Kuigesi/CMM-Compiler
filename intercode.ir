@@ -1,0 +1,34 @@
+FUNCTION addgf :
+PARAM v1
+PARAM v2
+PARAM v3
+PARAM v4
+PARAM v5
+PARAM v6
+PARAM v7
+t1 := v2 * v3
+t2 := v1 - t1
+t3 := v5 * v6
+t4 := t2 + t3
+t5 := t4 + v7
+RETURN t5
+RETURN #-1
+FUNCTION main :
+v10 := #1
+v8 := #1
+v10 := #3
+READ v9
+t6 := v8 + #1
+t7 := v9 + #1
+t8 := v10 + #1
+ARG #8
+ARG #7
+ARG #6
+ARG #5
+ARG t8
+ARG t7
+ARG t6
+t9 := CALL addgf
+t10 := t9 + #1
+WRITE t10
+RETURN v10

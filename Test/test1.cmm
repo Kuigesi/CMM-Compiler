@@ -1,0 +1,23 @@
+int main(){
+
+	/* fhdjhfdjhfj
+	   cc
+	   */
+	int j=1;
+	int t=89;
+	int t = 0x7F;
+	float gg = 1.05;
+	float ff = 0.32e2;
+	float fy = .2E-9;
+	float fy = 2.0E5;
+	int k=1988;
+	int kk,kl;
+	kk = kl = 0x54;
+	kk = 055;
+	kk = kk&&kl;
+       kk = kk + 1;	
+       if( kk >= 0 || kk ==9){
+	       kk = kl -1 * ff /fy;
+       }
+	return 0;
+}
